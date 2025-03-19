@@ -3,7 +3,7 @@
 https://youtu.be/bOyeW-HWNtU
 
 필수 기능 구현 사항
-- 판정 로직, 승리, 무승부, 게임 리셋<br>
+- 판정 로직(S/B/OUT 계산), 승리, 무승부, 게임 리셋<br>
 void AMyGameMode::ProcessPlayerInput(const FString& PlayerInput) 함수에 작성
 ![image](https://github.com/user-attachments/assets/7585117b-4cbe-4383-9e99-f0feebe464b5)
 - 난수 생성 로직 구현<br>
